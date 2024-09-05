@@ -6,4 +6,4 @@
 
 Thanks for checking out this front-end coding challenge.
 
-demo : [  ]
+demo : [ https://abuobayeh04.github.io/blog-preview-card-main/ ]
